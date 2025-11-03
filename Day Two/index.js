@@ -93,9 +93,9 @@ console.log(country); // Output: Nepal
 // 10. Summary
 // -------------------------
 // Variables store information that can be used later
-// let → can change
-// const → cannot change
-// var → old style, still works but not recommended
+// let : can change
+// const : cannot change
+// var : old style, still works but not recommended
 
 // Data types include:
 // - String : text, e.g., "Hello"
@@ -107,4 +107,5 @@ console.log(country); // Output: Nepal
 // - Array :  list of items
 
 // Congratulations! You now know how to create variables, assign values, and understand basic data types.
+
 // In Day 3, we’ll explore variable scope, operators, and working with data more deeply.
